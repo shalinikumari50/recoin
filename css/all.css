@@ -5,3 +5,8 @@
 .golden {
   color: rgba(255, 191, 0, 1);
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
