@@ -6,7 +6,7 @@
 .v1_3 {
   width: 414px;
   height: 896px;
-  background: rgba(255,255,255,1);
+  background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: relative;
   top: 0px;
@@ -27,7 +27,7 @@
 }
 .v7_21 {
   width: 193px;
-  color: rgba(67,63,79,1);
+  color: rgba(67, 63, 79, 1);
   position: absolute;
   top: 341px;
   left: 110px;
@@ -53,7 +53,7 @@
 .v7_50 {
   width: 339px;
   height: 75px;
-  background: rgba(48,38,76,1);
+  background: rgba(48, 38, 76, 1);
   opacity: 1;
   position: relative;
   top: 0px;
@@ -66,7 +66,7 @@
 }
 .v7_52 {
   width: 81px;
-  color: rgba(255,191,0,1);
+  color: rgba(255, 191, 0, 1);
   position: absolute;
   top: 24px;
   left: 129px;
@@ -92,7 +92,7 @@
 .v7_51 {
   width: 339px;
   height: 75px;
-  background: rgba(255,191,0,1);
+  background: rgba(255, 191, 0, 1);
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -105,7 +105,7 @@
 }
 .v7_53 {
   width: 215px;
-  color: rgba(48,38,76,1);
+  color: rgba(48, 38, 76, 1);
   position: absolute;
   top: 24px;
   left: 62px;
@@ -131,7 +131,7 @@
 .v7_57 {
   width: 203px;
   height: 12px;
-  background: rgba(48,38,76,0.20000000298023224);
+  background: rgba(48, 38, 76, 0.20000000298023224);
   opacity: 1;
   position: absolute;
   top: 18px;
@@ -140,7 +140,7 @@
 }
 .v7_58 {
   width: 203px;
-  color: rgba(48,38,76,1);
+  color: rgba(48, 38, 76, 1);
   position: absolute;
   top: 0px;
   left: 0px;
@@ -149,4 +149,12 @@
   font-size: 23px;
   opacity: 1;
   text-align: center;
+}
+
+.purple {
+  color: rgba(48, 38, 76, 1);
+}
+
+.golden {
+  color: rgba(255, 191, 0, 1);
 }
