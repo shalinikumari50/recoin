@@ -11,7 +11,7 @@
   position: relative;
   top: 0px;
   left: 0px;
-  overflow: hidden;
+  overflow: hidden;20
 }
 .v9_494 {
   width: 128px;
@@ -395,13 +395,13 @@
   text-align: center;
 }
 .v20_6 {
-  width: 188px;
-  height: 177px;
+  width: 400px;
+  
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 161px;
-  left: 207px;
+  left: 20px;
   overflow: hidden;
 }
 .v20_7 {
